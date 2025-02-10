@@ -2,11 +2,11 @@ import { Component } from "react";
 
 import "./index.css" 
 
-class Home extends Component{
+class BookList extends Component{
     render(){
         return(
-            <div>Home</div>
+            <div>BookList</div>
         )
     }
 }
-export default Home
+export default BookList 
